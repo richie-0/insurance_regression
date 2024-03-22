@@ -6,29 +6,21 @@ This repository contains a Python script for predicting insurance charges based 
 
 To run this script, ensure you have Python installed on your system. You can install the required libraries using pip:
 
-\```bash
 `pip install pandas numpy matplotlib scikit-learn`
-\```
 
 ## Usage
 
 1. Clone the repository:
 
-\```bash
 git clone https://github.com/richie-0/insurance_regression
-\```
 
 2. Navigate to the directory:
 
-\```bash
 cd repository
-\```
 
 3. Run the script:
 
-\```bash
 python insurance_prediction.py
-\```
 
 ## Description
 
