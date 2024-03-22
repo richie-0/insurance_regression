@@ -4,9 +4,16 @@ This repository contains a Python script for predicting insurance charges based 
 
 ## Installation
 
-To run this script, ensure you have Python installed on your system. You can install the required libraries using pip:
+### To run this script, you'll need to install the following Python packages:
 
-`pip install pandas numpy matplotlib scikit-learn`
+- [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+- [numpy](https://numpy.org/install/)
+- [matplotlib](https://matplotlib.org/stable/users/installing.html)
+- [scikit-learn](https://scikit-learn.org/stable/install.html)
+
+### You can install these packages using pip:
+
+#### `pip install pandas numpy matplotlib scikit-learn`
 
 ## Usage
 
